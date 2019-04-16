@@ -1,0 +1,29 @@
+
+total 221213420
+drwxr-xr-x 2 pt40963 cms          13 Dec 18 09:17 all1.fa.blobplots
+drwxr-xr-x 2 pt40963 cms          13 Dec 19 16:35 all2.fa.blobplots
+-rw-r--r-- 1 pt40963 cms 61512098425 Dec 20 08:32 bait_match_bait_match_R1.fastq
+-rw-r--r-- 1 pt40963 cms 59007259385 Dec 20 08:32 bait_match_bait_match_R2.fastq
+-rw-r--r-- 1 pt40963 cms 62449227460 Dec 18 18:17 bait_match_R1.fastq
+-rw-r--r-- 1 pt40963 cms 59889854448 Dec 18 18:17 bait_match_R2.fastq
+-rw-r--r-- 1 pt40963 cms   937129035 Dec 20 08:32 bait_miss_bait_match_R1.fastq
+-rw-r--r-- 1 pt40963 cms   882595063 Dec 20 08:32 bait_miss_bait_match_R2.fastq
+-rw-r--r-- 1 pt40963 cms 11148839432 Dec 18 18:17 bait_miss_R1.fastq
+-rw-r--r-- 1 pt40963 cms 10460474294 Dec 18 18:17 bait_miss_R2.fastq
+-rw-r--r-- 1 pt40963 cms   536674472 Dec 15 12:05 clc.1.fa
+-rw-r--r-- 1 pt40963 cms         481 Dec 15 14:41 clc.1.fa.STATS
+-rw-r--r-- 1 pt40963 cms   529992309 Dec 18 22:41 clc.2.fa
+-rw-r--r-- 1 pt40963 cms         481 Dec 19 02:04 clc.2.fa.STATS
+-rw-r--r-- 1 pt40963 cms   529342298 Dec 17 11:16 clc.all.fa.contim_filtered1.fasta
+-rw-r--r-- 1 pt40963 cms   529215432 Dec 19 08:27 clc.all.fa.contim_filtered2.fasta
+-rw-r--r-- 1 pt40963 cms     5079477 Dec 17 11:03 contig.mapping1.cas.cov
+-rw-r--r-- 1 pt40963 cms     4994166 Dec 19 02:12 contig.mapping2.cas.cov
+-rw-r--r-- 1 pt40963 cms 20999322370 Dec 19 10:14 hashstat.mhs.gz
+-rw-r--r-- 1 pt40963 cms   452079519 Dec 15 20:25 n.clc.all1.out
+-rw-r--r-- 1 pt40963 cms   409842318 Dec 19 08:15 n.clc.all2.out
+-rw-r--r-- 1 pt40963 cms 76411654513 Dec 14 10:35 R1.fastq
+-rw-r--r-- 1 pt40963 cms 73163916363 Dec 14 10:35 R2.fastq
+-rw-r--r-- 1 pt40963 cms           1 Dec 20 09:07 READ_file_sizes_1.txt
+-rw-r--r-- 1 pt40963 cms           0 Dec 17 02:13 READ_file_sizes.txt
+-rw-r--r-- 1 pt40963 cms       83035 Dec 19 02:05 scaffold_stats.Rdata.png
+drwxr-xr-x 2 pt40963 cms           8 Dec 18 13:51 shell_script
