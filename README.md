@@ -28,7 +28,7 @@ A step-by-step series of examples that tell you how to get a development environ
 # Usage
 A few examples of useful commands and/or tasks.
 # Example command
- `python your_script.py`
+ `python your_script.py -h`
 
 
 Authors
